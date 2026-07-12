@@ -234,6 +234,16 @@ Supporting the IEEE Student Branch as Technical Coordinator, driving technical i
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhirammsvyt-ux/abhirammsvyt-ux/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
