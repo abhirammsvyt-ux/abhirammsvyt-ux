@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Abhiram%20M&fontSize=60&fontColor=E0C3FC&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Abhiram%20M%20S&fontSize=60&fontColor=E0C3FC&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;Building+Intelligent%2C+Scalable+Systems;FastAPI+%7C+Python+%7C+Machine+Learning;Turning+Data+Into+Decisions" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Data%20Science-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%26%20Full%20Stack-8A2BE2?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-India-5D3FD3?style=flat-square&logo=googlemaps&logoColor=white"/>
 
@@ -35,7 +35,7 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhirammsvyt-ux/abhirammsvyt-ux/main/assets/placeholder.svg" alt="" />
 
-I'm a **Computer Science undergraduate** and aspiring **AI/ML & Full Stack Engineer**, focused on building intelligent, production-minded software rather than just notebooks. My work spans **predictive machine learning systems**, **deep learning for computer vision**, and **API-first backend engineering** using Python and FastAPI.
+I'm an **Artificial Intelligence & Data Science undergraduate** and aspiring **AI/ML & Full Stack Engineer**, focused on building intelligent, production-minded software rather than just notebooks. My work spans **predictive machine learning systems**, **deep learning for computer vision**, and **API-first backend engineering** using Python and FastAPI.
 
 I care about the full lifecycle of a project — from data preprocessing and model training to deploying a clean, documented, consumable API. I approach every build with a **product engineering mindset**: solve a real problem, keep the interface simple, and make the system something another engineer could pick up and extend.
 
