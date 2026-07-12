@@ -195,18 +195,32 @@ A foundational Python project used to explore core programming and problem-solvi
 
 ## 💼 Experience
 
-**AI/ML Intern** · IEEE Student Chapter
-`[Add Date Range]`
+**Secretary** · IEEE CIS SBC VJEC · Full-time
+`Mar 2026 - Present · 5 mos` · Taliparamba, Kerala, India · On-site
 
-Contributed to a structured internship program building applied AI/ML/DL projects under mentor guidance, covering the full pipeline from data preprocessing to model evaluation.
+Serving as Secretary for the IEEE Computer Society (CIS) chapter, handling chapter operations, technical event coordination, and member engagement.
 
-- Implemented classical ML and deep learning models across multiple problem domains
-- Practiced dataset cleaning, feature engineering, and model evaluation methodology
-- Collaborated within a cohort-based technical learning structure
+- Maintained chapter records and documentation
+- Coordinated technical events, workshops, and seminars
+- Speaker for a two-week AI, ML, and Data Science internship
+- Coordinated IEEE Summer School 2026
+- Managed member communications and engagement
+- Collaborated with volunteers to organize IEEE CIS activities
+- Promoted IEEE CIS programs and student participation
 
-`Python` `Machine Learning` `Deep Learning` `Jupyter`
+`Leadership` `Event Coordination` `AI/ML` `Public Speaking` `Community Management`
 
-> *Add further roles here following the same format — Title · Company · Dates · Description · Bullets · Tags.*
+---
+
+**Technical Coordinator** · IEEE SB VJEC · Full-time
+`Dec 2024 - Present · 1 yr 8 mos`
+
+Supporting the IEEE Student Branch as Technical Coordinator, driving technical initiatives and cross-team collaboration.
+
+- Coordinated technical planning and execution for branch initiatives
+- Collaborated with the student branch team to organize IEEE activities
+
+`Technical Coordination` `Team Collaboration` `IEEE`
 
 ---
 
