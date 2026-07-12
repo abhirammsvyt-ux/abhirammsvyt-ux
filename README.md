@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://haareyyioy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/abhiram-m-s8848"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhirammsvyt@gmail.com"><img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/abhirammsvyt-ux"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -59,23 +59,23 @@ I care about the full lifecycle of a project — from data preprocessing and mod
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,java&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mysql,sqlite,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql&theme=dark" />
 
 **AI / ML Tooling**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,huggingface&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 ---
 
@@ -210,90 +210,11 @@ Contributed to a structured internship program building applied AI/ML/DL project
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| IEEE AI/ML/DL Internship | Completed applied ML/DL project track |
-| Academic Project Portfolio | 5+ hands-on ML/AI/full-stack repositories |
-
-</div>
-
----
-
-## 📜 Certifications
-
-**AWS**
-
-<img src="https://img.shields.io/badge/AWS-Add%20Certification-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle-Add%20Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-Add%20Certification-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-Add%20Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-
----
-
-## 🎯 Coding Profiles
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Add%20Username-B983FF?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Username-8A2BE2?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Add%20Username-6A0DAD?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Add%20Username-7F00FF?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhirammsvyt-ux&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirammsvyt-ux&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=B983FF&fire=B983FF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirammsvyt-ux&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=c9d1d9" width="49%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhirammsvyt-ux&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhirammsvyt-ux&theme=react-dark&hide_border=true&bg_color=0d1117&color=B983FF&line=8A2BE2&point=ffffff" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhirammsvyt-ux/abhirammsvyt-ux/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -330,7 +251,7 @@ open_to:
 <a href="mailto:abhirammsvyt@gmail.com"><img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abhiram-m-s8848"><img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/abhirammsvyt-ux"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://haareyyioy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
